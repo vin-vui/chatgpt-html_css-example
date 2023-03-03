@@ -39,9 +39,9 @@ header .container {
 }
 
 header .logo {
-    width: 10rem;
-    position: absolute;
-    top: -50px;
+    width: 3rem;
+    height: 100%;
+    margin: auto 5px;
 }
 
 header nav {
@@ -232,7 +232,8 @@ footer {
 }
 
 .footer-logo {
-    width: 10rem;
+    width: 5rem;
+    margin: auto 5px;
 }
 
 .footer-links ul {
